@@ -1,3 +1,2 @@
-README.MD 来搞些冲突合并
-README.MD make some change
-均保留并添加其他说明
+Oh shit, I committed and immediately relaized I need to make one small change!
+get it!
