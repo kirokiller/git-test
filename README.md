@@ -3,3 +3,5 @@ get it!
 I need to change the message on my last commit!
 
 reset test commit 1
+
+reset test commit 2
